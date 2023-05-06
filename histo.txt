@@ -1,0 +1,16 @@
+1000,1,Demande,25,impossible
+2000,2,Demande,10,succès
+1000,2,Demande,10,succès
+2000,1,Demande,5,impossible
+3000,2,Demande,45,impossible
+1000,2,Annulation,5,succès
+4000,1,Demande,15,succès1000,1,Demande,11,succes
+1000,2,Demande,11,impossible
+1000,1,Demande,2,succes
+3000,2,Demande,5,succes
+3000,1,Demande,5,succes
+1000,1,Annulation,2,succes
+1000,1,Annulaton,10,impossible
+1000,2,Demande,5,succes
+1000,1,Demande,5,impossible
+3000,2,Annulaton,6,impossible
